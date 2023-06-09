@@ -9,4 +9,4 @@ RUN pip install -U pip && pip install -U -r requirements.txt
 RUN mkdir /Elsa
 WORKDIR /Elsa
 COPY start.sh /start.sh
-CMD ["/bin/bash", "/start.sh"]
+CMD ["python", "bot.py"]

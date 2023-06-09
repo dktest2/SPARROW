@@ -97,7 +97,7 @@ You can deploy this bot anywhere.
 <details><summary> Deploy To Okteto </summary>
 <br>
 <p>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Devil-Botz/Elsa&branch=main">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Dkmovie/Elsa&branch=main">
   <img src="https://okteto.com/develop-okteto.svg" alt="Develop on Okteto">
 </a>
 </p>

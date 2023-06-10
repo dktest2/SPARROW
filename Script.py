@@ -9,9 +9,9 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/R_KOHLI>𝚁𝙰𝚅𝙸 𝙺𝙾𝙷𝙻𝙸</a>
-✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: <a href=https://t.me/creatorbeatz>Jᴏᴇʟ ᠰ TɢX</a>
-✯ 𝙳𝙴𝚅: <a href=https://t.me/A_s_w_i_n_01>『Dᴇᴠɪʟ࿐Tɢ』</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/R_KOHLI>꧁𓊈𒆜𝚁𝙰𝚅𝙸 𝙺𝙾𝙷𝙻𝙸𒆜𓊉꧂</a>
+✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: <a href=https://t.me/movie_a1>ᑌᑭᗪEᗩT Ｃᕼᗩᑎᑎᒪ</a>
+✯ 𝙲𝙷𝙴𝚃: <a href=https://t.me/DK_update>𝄟✮͢🦋⃟≛⃝ 𝐃𝐊_𝐂𝐇𝐄𝐓𝄟✮⃝❤</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱

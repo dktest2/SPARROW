@@ -4,7 +4,7 @@ then
   git clone https://github.com/Dkmovie/SPARROW.git /SPARROW
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /𒆜S P A R R O W𒆜
+  git clone $UPSTREAM_REPO /SPARROW
 fi
 cd /SPARROW
 pip3 install -U -r requirements.txt

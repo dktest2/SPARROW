@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://telegra.ph/file/930ff28f8e22e70b00cfa.jpg" alt="Devil Botz">
+  <img src="https://graph.org/file/60e23bcaca73bfbbaffc5.jpg" alt="Dkmovie/SPARROW">
 </p>
 <h1 align="center">
-  <b>Elsa</b>
+  <b>𒆜𝗦𝗣𝗔𝗥𝗥𝗢𝗪𒆜</b>
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="LICENSE" >
+    <img src="https://img.shields.io/github/license/Dkmovie/SPARROW?style=for-the-badge&logo=appveyor" alt="LICENSE" >
     <img src="https://img.shields.io/github/contributors/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Contributors">
     <img src="https://img.shields.io/github/repo-size/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/github/issues/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Issues">
@@ -139,7 +139,7 @@ python3 bot.py
 * /font - fonts for your text
 * /deletefiles - PreDvD CamRip deletion
 ```
-<b> 😇CREATOR » [Aswin](https://t.me/Aswin_pm_Bot)</b>
+<b> 😇CREATOR » [Aswin](https://t.me/R_KOHLI)</b>
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    

@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Dkmovie/SPARROW.git /Shortner
+  git clone https://github.com/dktest2/SPARROW.git /Shortner
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Shortner
